@@ -1,4 +1,4 @@
-# Column Names and descriptions for Kings County Data Set
+# Flatiron Group Project 1 -  Kings County Housing Data Analysis
 * **id** - unique identified for a house
 * **dateDate** - house was sold
 * **pricePrice** -  is prediction target
